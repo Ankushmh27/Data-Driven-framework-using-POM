@@ -7,7 +7,7 @@ import Pages.loginpage;
 
 public class TestCase1 extends BaseClass 
 {
-
+//this is TestClass for login Test
 	@Test(priority = 1,description="This TC will perform valid login")
 	public void loginToApplication() throws InterruptedException 
 	{
